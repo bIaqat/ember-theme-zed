@@ -3,5 +3,5 @@ name = "Ember Theme"
 version = "0.6.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
-description = "Ember theme based off of Ember Colorscheme on Jetrains Marketplace for Zed"
+description = "Ember Colorscheme port for Zed"
 repository = "https://github.com/biaqat/ember-theme-zed"
